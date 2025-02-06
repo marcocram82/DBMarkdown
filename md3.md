@@ -101,7 +101,7 @@ Exemplo:
 ```sql
 SELECT * from dbo.ORG_UTILIZADORES ou inner join dbo.ORG_PESSOAS pes on pes.Pk = ou.Pk_pessoa
 ```
-
+[Some text](#markdown-header-entidades-principais)
 ### Estrutura orgânica
 
 *TAGs: Configuração -> Configuração por organização;*
@@ -352,6 +352,8 @@ t3 }o--|| t4 : "(Pk_armazem)"
 ```
 
 </details>
+
+[header](#entidades-principais)
 
 ### Faturaçao
 
